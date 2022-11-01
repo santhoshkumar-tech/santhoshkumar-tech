@@ -3,6 +3,7 @@
 - :hourglass: Tech Stack using 
 [<img align = "" width = "20px" height = "20px" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>]()
 [<img align = "" width = "20px" height = "20px" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>]()
+[<img align = "" width = "20px" height = "20px" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>]()
 [<img align = "" width = "20px" height = "20px" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
 [<img align = "" width = "20px" height = "20px" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>]()
 - 🌱 I'm currently learning Backend Technologies like Django, PHP, SQL ......
