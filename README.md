@@ -50,5 +50,6 @@
 
 ![](https://komarev.com/ghpvc/?username=santhoshkumar-tech&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
-
+<br><br>
+![Jokes Card](https://readme-jokes.vercel.app/api) 😅😅😅
 
