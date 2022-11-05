@@ -18,7 +18,7 @@
 ## My Stats
 
 <p align ="center" width = "100%">
-<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar-tech&show_icons=true&theme=tokyonight" />
+<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar-tech&show_icons=true&theme=tokyonight" /><br>
 <img alt="Most Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar-tech&layout=compact" />
 </p>
 <br><br>
